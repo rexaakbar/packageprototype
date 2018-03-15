@@ -1,7 +1,7 @@
 {
     "name": "rexaakbar/packageprototype",
     "type": "library",
-    "description": ":package_description",
+    "description": "ini cuman package prototype",
     "keywords": [
         "rexaakbar",
         "packageprototype"
@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Rexa Akbar Malik",
+            "email": "akbarrexa@gmail.com",
+            "homepage": "",
             "role": "Developer"
         }
     ],
